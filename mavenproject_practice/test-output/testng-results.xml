@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T12:28:05 GMT-07:00" name="Default suite" finished-at="2022-07-18T12:28:05 GMT-07:00" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T12:28:05 GMT-07:00" name="Default test" finished-at="2022-07-18T12:28:05 GMT-07:00" duration-ms="100">
+      <class name="mavenproject_practice.Practice1Test">
+        <test-method signature="Practice1Test()[pri:0, instance:mavenproject_practice.Practice1Test@53ce1329]" started-at="2022-07-18T12:28:05 GMT-07:00" name="Practice1Test" finished-at="2022-07-18T12:28:05 GMT-07:00" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice1Test -->
+        <test-method signature="Practice2Test()[pri:0, instance:mavenproject_practice.Practice1Test@53ce1329]" started-at="2022-07-18T12:28:05 GMT-07:00" name="Practice2Test" finished-at="2022-07-18T12:28:05 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice2Test -->
+        <test-method signature="Practice3Test()[pri:0, instance:mavenproject_practice.Practice1Test@53ce1329]" started-at="2022-07-18T12:28:05 GMT-07:00" name="Practice3Test" finished-at="2022-07-18T12:28:05 GMT-07:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice3Test -->
+      </class> <!-- mavenproject_practice.Practice1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
